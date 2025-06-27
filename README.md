@@ -1,4 +1,4 @@
-Hi 👋 My name is Tanakhan =========================  Software Engineering student@RMUTL. -------------------------------------  I am a student majoring in Software Engineering at Rajamangala University of Technology Lanna (RMUTL).”  * 🌍  I'm based in Thailand * ✉️  You can contact me at [Gmail : tanakhanluenam@gmail.com] * 🧠  I'm learning flowcharts and coding in Python and C/C++
+Hi 👋 My name is Tanakhan =========================  Software Engineering student@RMUTL. ---------------------------------------  I am a student majoring in Software Engineering at Rajamangala University of Technology Lanna (RMUTL).”  * 🌍  I'm based in Thailand * ✉️  You can contact me at [Gmail : tanakhanluenam@gmail.com] * 🧠  I'm learning flowcharts and coding in Python and C/C++
 
 ### Skills  
 
